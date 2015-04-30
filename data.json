@@ -226,7 +226,7 @@
             {
                 "startDate":"1861,4",
                 "headline":"Civil War Starts",
-                "text":"Though both the RCA and CRC supported the Northern cause, they varied in their involvement in the war. For more info <a data-toggle='modal' data-target='#CivilWar'>click here.</a>click here.</a>",
+                "text":"Though both the RCA and CRC supported the Northern cause, they varied in their involvement in the war. For more info <a data-toggle='modal' data-target='#CivilWar'>click here.</a>",
                 "asset":
                 {
                     "media":"assets/img/DBK_Van_Raalte.jpg",
@@ -237,7 +237,7 @@
             {
                 "startDate":"1863,2",
                 "headline":"Mergers Rejected by the CRC",
-                "text":"Rev. Vandenbosch of the CRC proposes merging with the Old School Presbyterian Church and Rev. Schepers proposes that they join his denomination, the <a href='https://schismof1857.wordpress.com/glossary-of-churches/'>Associate Reformed Church</a>. Both mergers are rejected by Classis due to differences in liturgy.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>24</sup></a>",
+                "text":"Rev. Vandenbosch of the CRC proposes merging with the Old School Presbyterian Church and Rev. Schepers proposes that they join his denomination, the Associate Reformed Church. Both mergers are rejected by Classis due to differences in liturgy.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>24</sup></a>",
                 "asset":
                 {
                     "media":"assets/img/VanDenBosch.jpg",
@@ -248,7 +248,7 @@
             {
                 "startDate":"1863,7",
                 "headline":"Christian Education Promoted",
-                "text":"Rev. Wilhelmus H. Van Leeuwen, the new pastor of First Grand Rapids CRC is appointed to teach future ministers in his parsonage. He also encourages Classis to found Christian elementary schools.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>25</sup></a>. For more info on Christian schools in the RCA and CRC <a href='https://schismof1857.wordpress.com/the-rca-and-crc-on-day-schools/'>click here.</a>",
+                "text":"Rev. Wilhelmus H. Van Leeuwen, the new pastor of First Grand Rapids CRC is appointed to teach future ministers in his parsonage. He also encourages Classis to found Christian elementary schools.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>25</sup></a>. For more info on Christian schools in the RCA and CRC <a data-toggle='modal' data-target='#Education'>click here.</a>",
                 "asset":
                 {
                     "media":"assets/img/ForestGroveSchools.jpg",
