@@ -149,7 +149,7 @@
             {
                 "startDate":"1852",
                 "headline":"Beginnings of Conflict",
-                "text":"Though the Union of 1850 is complete, not all was peaceful in the Western churches. In 1852,  Jacob R. Schepers is called by the South Holland congregation to be their minister. Schepers held disagreements with the RCA and had avoided their examination to be officially ordained. When Holland Classis refuses to recognize him as their minister, the South Holland congregation joins the <a href='https://schismof1857.wordpress.com/glossary-of-churches/'>Associate Reformed Church</a>, another local church denomination.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>16</sup></a>",
+                "text":"Though the Union of 1850 is complete, not all was peaceful in the Western churches. In 1852,  Jacob R. Schepers is called by the South Holland congregation to be their minister. Schepers held disagreements with the RCA and had avoided their examination to be officially ordained. When Holland Classis refuses to recognize him as their minister, the South Holland congregation joins the <a data-toggle='modal' data-target='#AssociateReformed'>Associate Reformed Church</a>, another local church denomination.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>16</sup></a>",
                 "asset":
                 {
                     "media":"assets/img/Associate_Reformed_Church.jpg",
@@ -204,7 +204,7 @@
             {
                 "startDate":"1857,4",
                 "headline":"Mass Secession from the RCA",
-                "text":"Four congregations — Nordeloos, Polkton, Grand Rapids, and Graafschap — send letters of secession to the Holland Classis after voting to “return” to independence from the RCA. The congregations were concerned that the RCA had strayed towards more liberal theology and practices. Their specific complaints were the use of man-made hymns in worship, open communion, and failing to preach the doctrines of total depravity and limited atonement.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>21</sup></a> For more information on the reasons behind the secession <a href='https://schismof1857.wordpress.com/reasons-behind-the-secession/'>click here.</a>",
+                "text":"Four congregations — Nordeloos, Polkton, Grand Rapids, and Graafschap — send letters of secession to the Holland Classis after voting to “return” to independence from the RCA. The congregations were concerned that the RCA had strayed towards more liberal theology and practices. Their specific complaints were the use of man-made hymns in worship, open communion, and failing to preach the doctrines of total depravity and limited atonement.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>21</sup></a> For more information on the reasons behind the secession <a data-toggle='modal' data-target='#Reasons'>click here.</a>",
                 "asset":
                 {
                     "media":"assets/img/Dort.jpg",
