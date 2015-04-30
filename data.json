@@ -8,8 +8,8 @@
 		"text":"<a data-toggle='modal' data-target='#Introduction'><i><span class='c1'>Conflict</span> & <span class='c2'>Culture</span></i></a>",
 		"asset":
         {
-            "media":"assets/img/PillarChurch.jpg",
-            "credit":"Image Courtesy of <a href='https://www.flickr.com/photos/stevendepolo/6698632039/in/photolist-bcWeM8-bcWeVR-bWt4HV/'>Steven DePolo</a>",
+            "media":"assets/img/BWPillarChurch.jpg",
+            "credit":"Image courtesy of <a href='http://www.jointarchives.org/'>The Joint Archives of Holland</a>",
             "caption":"Pillar Church<a href='https://schismof1857.wordpress.com/timeline-image-citations/'><sup>1</sup></a> "
         },
         "date": [
