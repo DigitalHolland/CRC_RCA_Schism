@@ -226,7 +226,7 @@
             {
                 "startDate":"1861,4",
                 "headline":"Civil War Starts",
-                "text":"Though both the RCA and CRC supported the Northern cause, they varied in their involvement in the war. For more info <a href='https://schismof1857.wordpress.com/church-involvement-in-the-american-civil-war/'>click here.</a>",
+                "text":"Though both the RCA and CRC supported the Northern cause, they varied in their involvement in the war. For more info <a data-toggle='modal' data-target='#CivilWar'>click here.</a>click here.</a>",
                 "asset":
                 {
                     "media":"assets/img/DBK_Van_Raalte.jpg",
