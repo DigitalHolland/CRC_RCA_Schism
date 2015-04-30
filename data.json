@@ -138,7 +138,7 @@
              {
                 "startDate":"1851,10",
                 "headline":"Founding of the Pioneer School",
-                "text":"With the help of funds from the RCA, Van Raalte organizes a secondary school known as the Pioneer School. All teachers were members of the RCA, but instruction was given in the English language despite the <a href='https://schismof1857.wordpress.com/secession-and-the-dutch-language/'>continued use of Dutch</a> in the churches. This school would be reorganized into the Holland Academy a few years later.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>15</sup></a>. Click the audio link to hear Dr. Elton Bruins talk about the significance of the dutch language in the churches and schools.",
+                "text":"With the help of funds from the RCA, Van Raalte organizes a secondary school known as the Pioneer School. All teachers were members of the RCA, but instruction was given in the English language despite the <a data-toggle='modal' data-target='#Language'>continued use of Dutch</a> in the churches. This school would be reorganized into the Holland Academy a few years later.<a href='https://schismof1857.wordpress.com/timeline-sources/'><sup>15</sup></a>. Click the audio link to hear Dr. Elton Bruins talk about the significance of the dutch language in the churches and schools.",
                 "asset":
                 {
                     "media":"https://soundcloud.com/andchism/cultural-influences",
